@@ -11,6 +11,8 @@ Esse é um simples jogo de carro top down 2D feito em HTML Canvas + Javacript, o
   
 ![alt text](https://github.com/pedro-ca/car-canvas/blob/main/car%20canvas%20screenshot.JPG)
 
+---
+
 # Features
   - Car accelaretes over time, instead of having just a fixed velocity.
   - Car slowdown over time when "↑ Up" and "↓ Down" are not being pressed over time, instead of just stopping imediatly. 
@@ -28,7 +30,9 @@ Esse é um simples jogo de carro top down 2D feito em HTML Canvas + Javacript, o
   - *Uma musica muito estilosa tocando no fundo vinda do anime "Initial D": "Manoel - Gas Gas Gas" :)* 
 </details>
 
-# Controls (English)
+---
+
+# Controls
   - The "↑ Up" arrow key accelerates the car foward.
   - The "↓ Down" arrow key accelerates the car backwards.
   - The "→ Right" and "← Left" arrow keys rotates the car.
