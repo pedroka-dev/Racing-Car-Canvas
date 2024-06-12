@@ -2,6 +2,10 @@
 
 This is a simple top down 2D car game made in HTML Canvas + Javascript, where you control a car with the keyboard arrows keys. The main goal of this PoC (Proof of Concept) is to test creation, movement, rotation, translation and even collision detection of geometry shapes on Canvas. 
 
+Made in less than 8 consecutive hours of work, in a caffeine-fuelled programming binge.
+
+Because of such small time scope and the limited features of HTML Canvas, many smart hacks and workahounds were necessary to make this project work. And it does works! But such hacks and workahound also makes the code pretty abstract and hard to read. 
+
 
 <details>
 <summary>Introdução (Português)</summary>
